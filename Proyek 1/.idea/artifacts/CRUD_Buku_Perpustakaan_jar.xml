@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CRUD-Buku-Perpustakaan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CRUD_Buku_Perpustakaan_jar</output-path>
+    <root id="archive" name="CRUD.jar">
+      <element id="module-output" name="CRUD" />
+    </root>
+  </artifact>
+</component>
