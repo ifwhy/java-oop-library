@@ -1,6 +1,7 @@
 # 📚 Sistem Pengelolaan Buku
 
 <div align="center">
+<img src="../assets/Library - OOP.png">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntellijIDEA Badge">
 </div>
